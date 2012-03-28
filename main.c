@@ -618,12 +618,12 @@ void readDB(char mode[])
                     fscanf(fpt,"\n");
                 }
                 int l;
-                l = strlen(table[k]);
+                /*l = strlen(table[k]);
                 for(i = 0; i < l; i++)
                 {
                     table[k][i] = table[k][i+5];
                 }
-                table[k][l] = ('\0');
+                table[k][l] = ('\0');*/
                 printf("\t+++%s+++\n\n",table[k]);
                 //Print Attributes
                 for(i = 0; i < AttNum; i++)
