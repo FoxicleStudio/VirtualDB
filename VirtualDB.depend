@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1332915270 source:c:\users\wolface\dropbox\c projects\virtualdb\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<dirent.h>
+
+1332862357 source:g:\virtualdb\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<dirent.h>
+

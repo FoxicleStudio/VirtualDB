@@ -1,0 +1,15 @@
+TNUM 2
+TABLECPU
+ATTRIBUTE 2
+Manufacturer
+Score
+ROW 2
+Intel i7 
+AMD rocks 
+TABLERAM
+ATTRIBUTE 2
+Manufacturer
+Capacity
+ROW 2
+Kingston 4GB 
+Sandisk 2GB 

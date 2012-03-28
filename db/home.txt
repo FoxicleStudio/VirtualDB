@@ -1,0 +1,7 @@
+TABLEowner
+ATTRIBUTE 2
+price
+name
+ROW 2
+3m Ode 
+10m Neung 

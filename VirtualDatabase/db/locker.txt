@@ -1,0 +1,15 @@
+TNUM 1
+TABLElockers
+ATTRIBUTE 2
+owner
+ID
+ROW 2
+Ode 99 
+Neung 55 
+TABLEBox
+ATTRIBUTE 2
+Label
+Colour
+ROW 2
+C Purple 
+E Green 

@@ -1,0 +1,9 @@
+TNUM 2
+TABLEpeople
+ATTRIBUTE 3
+code
+name
+sex
+ROW 2
+001 Neung male 
+002 Jitrin male 

@@ -1,0 +1,8 @@
+TNUM 2
+ATTRIBUTE 2
+yeehor
+quality
+ROW 3
+Princo Bad 
+TDK Verygood 
+Imation Best 

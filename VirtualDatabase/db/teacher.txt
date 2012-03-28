@@ -1,0 +1,10 @@
+TNUM 1
+TABLEcomsci
+ATTRIBUTE 3
+abbre
+Name
+Gender
+ROW 3
+NSD Nontakorn Male 
+SP Satit Male 
+ENS Earn Male 
