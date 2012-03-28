@@ -471,7 +471,7 @@ void deleteTable()
     gets(DBName);
     strcat(dbn,DBName);
 
-    if((fpt = fopen(dbn,"r")) == NULL)
+    if((fpt = fopen(strcat(dbn,".txt"),"r")) == NULL)
     {
         printf("Error creating new file, please try again or read the manual.");
         system("PAUSE");
@@ -510,7 +510,7 @@ void deleteTable()
 
         }
         fpt = fopen(dbn,"w");
-        fprintf(fpt,"TNUM %d\n",numTable);
+        fprintf(fpt,"TNUM %d\n",numTable-1);
         for(i=0; i<numTable-1; i++)
         {
             fprintf(fpt,"%s\n",info[i].nameTable);
